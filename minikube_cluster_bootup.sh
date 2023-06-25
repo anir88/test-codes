@@ -2,8 +2,8 @@
 
 echo "Welcome to the Minikube Startup utility"
 echo "Starting the minikube cluster"
-sleep 3
+sleep 3s
 
-minikube start --profile "test-k8s-cluster"
+minikube start --profile test-cluster1
 
 
