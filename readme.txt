@@ -1,1 +1,1 @@
-Text file to check the local repo push
+Text file to check the local repo push.
