@@ -1,1 +1,1 @@
-Checking the test func.
+Text file to check the local repo push.
